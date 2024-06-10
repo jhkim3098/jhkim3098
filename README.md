@@ -27,4 +27,13 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 
+:star: *Contact* :star:
+
+*jhkim3098@naver.com*
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhkim3098&show_icons=true&theme=radical)
+
 </div>
+
+
