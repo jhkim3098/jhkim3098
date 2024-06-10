@@ -1,12 +1,12 @@
 # *김준형*
 
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kimjunhyoung%20&fontSize=90)
 
-**현재 우송대학교 AI빅데이터학과 4학년으로 재학중이며 우송IT센터에서 코딩 교육을 받고있습니다.**
+**안녕하세요 현재 우송대학교 AI빅데이터학과 4학년으로 재학중이며 우송IT센터에서 코딩 교육을 받고있습니다.**
 
 *아래는 제가 사용해보았던 언어와 툴들입니다.*
-
-<div align="center">
 
 :star: *Use* :star:
 
